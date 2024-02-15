@@ -1,0 +1,4 @@
+"credential": {
+"AuthenticationKind": "ServiceAccount",
+        "EncryptConnection": false
+}
